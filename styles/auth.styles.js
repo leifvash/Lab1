@@ -8,9 +8,11 @@ export const styles = StyleSheet.create({
     backgroundColor: "#fff",
   },
   title: {  
-    fontSize: 90,
-    color: "red",
+    fontSize: 72,
+    color: "black",
     fontWeight: "bold",
+    textAlign: "center",
+    marginBottom: 20,
   },
   img: {
     width: 100,
