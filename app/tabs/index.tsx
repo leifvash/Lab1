@@ -6,7 +6,7 @@ import { styles } from "../../styles/auth.styles";
 export default function Index() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>LEIFVASH APP</Text>
+      <Text style={styles.title}>Leifvash Cellan&apos;s App</Text>
 
       <Link href="/tabs/profile">Click to Visit Profile</Link>
     </View>
