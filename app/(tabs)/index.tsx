@@ -8,7 +8,7 @@ export default function Index() {
     <View style={styles.container}>
       <Text>Leifvash Cellan&apos;s App</Text>
 
-      <Link href="/tabs/profile">Click to Visit Profile</Link>
+      <Link href="/(tabs)/profile">Click to Visit Profile</Link>
     </View>
   );
 }
